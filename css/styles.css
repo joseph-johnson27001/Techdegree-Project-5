@@ -1,3 +1,9 @@
+/* Full site styles */
+
+body {
+  font-family: 'Varela Round', serif;
+}
+
 /* Search Box Styles */
 
 #search-area {
@@ -14,7 +20,6 @@
   margin-top: 30px;
   margin-left: auto;
   margin-right: auto;
-  font-style: italic;
   max-width: 500px;
 }
 
@@ -29,7 +34,7 @@ input:focus::placeholder {
 
 /* Gallery & Images Styles */
 
-#gallery {
+.gallery {
   text-align: center;
   max-width: 1000px;
   margin: auto;
